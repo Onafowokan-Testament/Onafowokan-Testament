@@ -52,3 +52,4 @@ Make sure you follow. If you like to connect
 
 ✅ Youtube:https://www.youtube.com/@Testament_journal
 
+Substack:https://onafowokantestament.substack.com/

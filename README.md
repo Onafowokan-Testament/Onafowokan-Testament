@@ -8,27 +8,39 @@ In short:
 
 Agentic Framework:✔️ Langchain, ✔️Langraph,✔️ LangSmith, ✔️PhiData
 
+
 No-Code Chatbot framework: ✔️DialogFlow
+
 
 Frontend: ✔️Streamlit, ✔️NextJS(React)
 
+
 Backend:✔️ FastAPI(Python), 
+
 
 Database: ✔️Postgres, ✔️MongoDB, SQL
 
+
 Vector Database: ✔️FAISS, ✔️ChromaDB, ✔️Quadrant, ✔️PineCone 
+
 
 Machine Learning: ✔️Numpy, ✔️Pandas, ✔️Matplotlib, ✔️Sklearn
 
+
 Deep Learning : ✔️Tensorflow
+
 
 Version Control / Platform: ✔️ Git ✔️ GitHub 
 
+
 Used Previously: ✔️ TypeScript ✔️ JavaScript ✔️ Arduino
+
 
 Currently Learning: ✔️ Cloud Agentic AI ✔️ Project Management
 
+
 CONTENT: Youtube, Substack , Linkedin
+
 
 
 Thanks for checking out my profile, it is a pleasure to meet you 🤝.
